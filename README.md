@@ -23,4 +23,3 @@ Siga o passo a passo detalhado abaixo para preparar o ambiente, instalar as depe
 
 ### 1. Clonar o Repositório
 Abra o terminal do seu computador ou do VS Code e clone o projeto usando o comando Git (ou baixe o arquivo .zip direto do GitHub):
-```bash
