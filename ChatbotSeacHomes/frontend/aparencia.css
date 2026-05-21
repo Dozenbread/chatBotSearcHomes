@@ -295,6 +295,41 @@ button[type="submit"]:active {
     border: none;
     height: 1px;
     background: linear-gradient(90deg, #cfb27c, transparent);
+    .loading-logo {
+    width: 70px;
+    height: 70px;
+    animation: spin 1.8s linear infinite;
+    display: block;
+    margin: 0 auto 12px;
+    border-radius: 50%;
+}
+
+.loading-logo {
+    width: 70px;
+    height: 70px;
+    animation: spin 1.8s linear infinite;
+    display: block;
+    margin: 0 auto 12px;
+    border-radius: 50%;
+}
+
+@keyframes spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+}
+
+.loading-message {
+    text-align: center;
+    padding: 25px 0;
+    opacity: 0.9;
+}
+
+.loading-text {
+    text-align: center;
+    color: #5c4033;
+    font-style: italic;
+    margin: 5px 0 0 0;
+}
 }
 
 /* ========== ASIDE (barra lateral com botão Histórico) ========== */

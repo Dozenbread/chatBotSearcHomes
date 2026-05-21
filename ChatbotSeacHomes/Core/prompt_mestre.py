@@ -18,6 +18,7 @@ class PromptMestre:
 
         self.restricao= """
         -Voce não deve usar dados de outro site alem do site proprio
+        -Voce não deve responder nada que não envolava fatos historiscos
         -Voce não deve invertar respostas
         -Voce não deve respoder um usuario com uma resposta inconclusiva ou imcompleta
         """
