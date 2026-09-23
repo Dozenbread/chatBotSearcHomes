@@ -24,7 +24,8 @@ body {
         "main"
         "footer";
     gap: 20px;
-    max-width: 900px;
+    max-width: 1400px;
+    width: 90%;
     margin: 0 auto;
     background-image: radial-gradient(circle at 15% 30%, rgba(70, 50, 35, 0.15) 2%, transparent 2.5%);
     background-size: 28px 28px;
